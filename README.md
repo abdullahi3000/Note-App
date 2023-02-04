@@ -1,4 +1,4 @@
-# note_taking
+# Note_App
 
 A new Flutter project.
 
@@ -18,8 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 Here some Screenshots
 
 ![Screenshot_1675493770](https://user-images.githubusercontent.com/124423824/216753777-3d24fa7d-6c7e-415b-8544-57d1586361f0.png)
-![Screenshot_1675493688](https://user-images.githubusercontent.com/124423824/216753775-748fe94b-bf75-4b75-bdfa-224353a91e2b.png)
 ![Screenshot_1675493683](https://user-images.githubusercontent.com/124423824/216753779-b1f94d74-5441-4b4d-9221-1de1f3efea2c.png)
+![Screenshot_1675493688](https://user-images.githubusercontent.com/124423824/216753775-748fe94b-bf75-4b75-bdfa-224353a91e2b.png)
+
 
 
 
